@@ -1,7 +1,7 @@
-👋 Hi, I’m @solhong. 
-👀 I’m interested in solving bias in data. 
-🌱 I’m currently learning data science. 
-📫 How to reach me gomapso21@gmail.com. 
+👋 Hi, I’m @solhong.  
+👀 I’m interested in solving bias in data.  
+🌱 I’m currently learning data science.  
+📫 How to reach me gomapso21@gmail.com.   
 ✨ My projects:  
 - [Ad Click Prediction AI Model](https://github.com/solhong/solhong/blob/main/clickpredictionAI.md).  
 - [Ad Generator NLP Model](https://github.com/solhong/solhong/blob/main/adgenerator.md). 
