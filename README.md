@@ -5,7 +5,7 @@
 ✨ My projects:  
 - [Ad Click Prediction AI Model](https://github.com/solhong/solhong/blob/main/clickpredictionAI.md).  
 - [Ad Generator NLP Model](https://github.com/solhong/solhong/blob/main/adgenerator.md). 
-- [NO MASK MONSTER, using Face Mask Dectection API](https://github.com/solhong/solhong/blob/main/nomaskmonster.md)
+- [NO MASK MONSTER, Face Mask Dectection API](https://github.com/solhong/solhong/blob/main/nomaskmonster.md)
 
 
 <!---
