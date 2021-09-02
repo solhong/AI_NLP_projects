@@ -1,4 +1,4 @@
-# NOMASK MONSTER
+# [NOMASK MONSTER](https://nomaskmonsterupdated.bubbleapps.io/)
 NOMASK MONSTER service presents a fun experience to children who are uncomfortable in wearing a mask.
 I used [Face Mask Detection API](https://ainize.ai/woomurf/FaceMaskDetection?branch=master), AI that detects whether a mask is worn or not.
 
