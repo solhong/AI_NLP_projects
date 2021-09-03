@@ -1,6 +1,7 @@
 # [Advertisement Click Prediction AI](http://ad-click-prediction-4.bubbleapps.io)
 
 Targeting the right audience is a challenge in online marketing. Without knowing right audience to your products, you not only waste millions of dollars to display the advertisement to wrong audience, but also waste a lot of time to find right audience. To save marketing budget and time, I developed Advertisement Click Prediction with Peltarion and Bubble.
+
 Advertisement Click Prediction predicts whether your advertisement will be clicked or not by your targeted audience. This app also predicts who will be your target audience. To predict advertisement clicks, you need to type following information: your target audience's age, gender, expected annual income, daily time spent on site, daily internet usage, and advertisement phrase. After typing all the information and clicking 'Predict' button, you will know whether your advertisement will be clicked or not.
 
 ![image](https://user-images.githubusercontent.com/89971178/131816812-fc405545-4153-44fa-891a-bf6a41c36fd5.png)
@@ -87,7 +88,7 @@ The model was built on the [Peltarion](https://peltarion.com/).
 
 
 ### AI model accuracy:
-The best model showed 100% accuracy in validation, 96% accuracy in training. The model showed 100% Validation accuracy, 96% Training accuracy. Validation Loss is less than Training Loss. In general, the training accuracy is higher than the validation accuracy, so cross-validation is required. The problem may be caused by the validation set had mostly 'easy' cases to predict. I tried to see if cross-validation was possible in Peltarion, but I couldn't find a way, so there was a limit. However, before running the product advertisement, I was able to check whether the ad will be clicked by entering the information of the expected target user and the ad headline. I think that if we collect more user data and train it, we can create a more reliable model.
+The model showed 100% Validation accuracy, 96% Training accuracy. Validation Loss is less than Training Loss. In general, the training accuracy is higher than the validation accuracy, so cross-validation is required. The problem may be caused by the validation set had mostly 'easy' cases to predict. I tried to see if cross-validation was possible in Peltarion, but I couldn't find a way, so there was a limit. However, before running the product advertisement, I was able to check whether the ad will be clicked by entering the information of the expected target user and the ad headline. I think that if we collect more user data and train it, we can create a more reliable model.
 
 ![image](https://user-images.githubusercontent.com/89971178/131818659-1b58aa8c-f9fc-4f85-8d06-242aedcff1cc.png)
 ![image](https://user-images.githubusercontent.com/89971178/131818670-16be75f1-2ce6-4dc3-b4f1-bb998cdfd1a0.png)
