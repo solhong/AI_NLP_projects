@@ -1,5 +1,5 @@
 👋 Hi, I’m @solhong.  
-👀 I’m interested in solving bias in data.  
+👀 I’m interested in solving data bias/ gender data gap and using data for social good.  
 🌱 I’m currently learning data science.  
 📫 How to reach me gomapso21@gmail.com.   
 ✨ My projects:  
