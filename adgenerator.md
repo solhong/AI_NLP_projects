@@ -1,7 +1,8 @@
 
 # Make attractive AD transcripts for your product
 It takes a lot of time to think of appealing advertisement transcripts. To save your time, I made an NLP model that writes advertisement transcripts about my products. I used [Teachable NLP](https://ainize.ai/teachable-nlp) to make this possible. 
-### Try my model: [link](https://kubecon-tabtab-ainize-team.endpoint.ainize.ai/?modelUrl=https://train-m7vw4m8hinqgzra7s7wr-gpt2-train-teachable-ainize.endpoint.ainize.ai/predictions/gpt-2-en-small-finetune&text=Type%20a%20category%20of%20your%20product)
+
+### Try Ad transcript generator model: [link](https://kubecon-tabtab-ainize-team.endpoint.ainize.ai/?modelUrl=https://train-m7vw4m8hinqgzra7s7wr-gpt2-train-teachable-ainize.endpoint.ainize.ai/predictions/gpt-2-en-small-finetune&text=Type%20a%20category%20of%20your%20product)
 
 # Data perparation 
 
