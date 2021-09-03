@@ -45,4 +45,4 @@ After few more iterations, I made a compelling advertisement transcript for my p
 :shushing_face:**A small tip to make your advertisement transcripts better:**
 Don't hesitate to edit the sentences suggested by your NLP model! Your direction will make your NLP model write better advertisement transcripts that are more related to your product!
 
-# Try my model: [link](https://kubecon-tabtab-ainize-team.endpoint.ainize.ai/?modelUrl=https://train-m7vw4m8hinqgzra7s7wr-gpt2-train-teachable-ainize.endpoint.ainize.ai/predictions/gpt-2-en-small-finetune&text=Type%20a%20category%20of%20your%20product)
+### Try Ad transcript generator model: [link](https://kubecon-tabtab-ainize-team.endpoint.ainize.ai/?modelUrl=https://train-m7vw4m8hinqgzra7s7wr-gpt2-train-teachable-ainize.endpoint.ainize.ai/predictions/gpt-2-en-small-finetune&text=Type%20a%20category%20of%20your%20product)
