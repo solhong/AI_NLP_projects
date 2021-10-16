@@ -1,7 +1,7 @@
-👋 Hi, I’m @solhong.  
+👋 Hi, I’m Dasol.  
 👀 I’m interested in solving data bias/ gender data gap and using data for social good.  
-🌱 I’m currently learning data science.  
-📫 How to reach me gomapso21@gmail.com.   
+🌱 I’m currently learning data science and running [Auto ML/No-code AI community](https://knock-ai.circle.so/). 
+📫 Reach me: gomapso21@gmail.com.   
 ✨ My projects:  
 - [Ad Click Prediction AI Model](https://github.com/solhong/solhong/blob/main/clickpredictionAI.md).  
 - [Ad Generator NLP Model](https://github.com/solhong/solhong/blob/main/adgenerator.md). 
