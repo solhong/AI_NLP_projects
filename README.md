@@ -1,4 +1,4 @@
-👋 Hi, I’m Dasol.  
+👋 Hi, I’m Dasol Hong.    
 👀 I’m interested in solving data bias/ gender data gap and using data for social good.  
 🌱 I’m currently learning data science and running [Auto ML/No-code AI community](https://knock-ai.circle.so/).  
 📫 Reach me: gomapso21@gmail.com.   
