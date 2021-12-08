@@ -1,10 +1,10 @@
 
 # Make attractive AD transcripts for your product
-It takes a lot of time to think of appealing advertisement transcripts. To save your time, I made a NLP model that writes advertisement transcripts about your product. I used [Teachable NLP](https://ainize.ai/teachable-nlp) to make my own NLP model. 
+It takes a lot of time to think of appealing advertisement transcripts. To save your time, I made NLP model that writes advertisement transcripts about your product. I used [Teachable NLP](https://ainize.ai/teachable-nlp) to make my own NLP model. 
 
 ### Try Ad transcript generator model: [link](https://kubecon-tabtab-ainize-team.endpoint.ainize.ai/?modelUrl=https://train-m7vw4m8hinqgzra7s7wr-gpt2-train-teachable-ainize.endpoint.ainize.ai/predictions/gpt-2-en-small-finetune&text=Type%20a%20category%20of%20your%20product)
 
-# Data perparation 
+# Data preparation 
 
 To prepare the advertisement transcripts dataset, I looked up the word, 'Advertisement', at the data section in Kaggle. Thankfully, I found the data that I need.: ' **Advertisement Transcripts from Various Industries.** ' ([link](https://www.kaggle.com/kevinhartman0/advertisement-transcripts-from-various-industries?select=Advertisement_Transcripts_deduped_edited.xlsx))
 
@@ -38,7 +38,7 @@ See my first result below. The sentence suggested by my NLP model is mind-blowin
 
 After few more iterations, I made a compelling advertisement transcript for my product with a help of my NLP model. 
 * **Bolded words** were written by myself. 
-* *Italics words* were originally suggested by my NLP model but I replaced them to words that were more related to my product.
+* *Italics words* were originally suggested by my NLP model but I replaced them in words that were more related to my product.
 
 > **Ice cream** and chocolate chips, it's a *dessert* that will make you forget all about work, deadlines, schedules, budgets, and all the worries. Ice cream will satisfy your soul, your body and your spirit with this savory. **Our ice cream has three flavors: Vanilla, Strawberry, and Chocolate.** Try this out and see how they differ from one another. Visit our website [icecream.com](http://icecream.com) for a taste of your favorite.
 
