@@ -1,6 +1,6 @@
 ## NLP projects
-- [Ad Click Prediction AI Model](https://github.com/solhong/solhong/blob/main/clickpredictionAI.md).  
-- [Ad Generator NLP Model](https://github.com/solhong/solhong/blob/main/adgenerator.md). 
+- [Ad Click Prediction AI Model](https://github.com/solhong/solhong/blob/main/clickpredictionAI.md)  
+- [Ad Generator NLP Model](https://github.com/solhong/solhong/blob/main/adgenerator.md) 
 - [NO MASK MONSTER, Face Mask Dectection AI](https://github.com/solhong/solhong/blob/main/nomaskmonster.md)
 
 
